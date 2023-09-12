@@ -1,3 +1,3 @@
 This is my first reposetry
 <br>
-Author-Ashish Ranjan 
+Author-Ashish Ranjan Singh
